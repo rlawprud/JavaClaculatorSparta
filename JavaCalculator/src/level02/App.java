@@ -5,7 +5,8 @@ public class App {
     public static void main(String[] args){
         Calculator02 calculator = new Calculator02();
         Scanner sc = new Scanner(System.in);
-
+        // 코드가 저열합니다.
+        // 변명 = 아팠음
         double x, y;
         String input;
         char operator;
